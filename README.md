@@ -51,7 +51,7 @@ sudo apt install build-essential cmake libxml2-dev libxml++2.6-dev
 Build the project:
 
 ```
-git clone https://github.com/YOUR_ORG/xmldig2csv.git
+git clone https://github.com/mcsee-artifacts/xmldig2csv.git
 cd xmldig2csv
 mkdir build && cd build
 cmake ..
